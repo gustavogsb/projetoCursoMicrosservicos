@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "user-api",
+			"path": "user-api"
+		},
+		{
+			"name": "payroll-api",
+			"path": "payroll-api"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
